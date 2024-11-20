@@ -673,7 +673,7 @@ footer .copyright {
     .banner {
         height: 250px;
     }
-    .content {
+    .content-box {
         width: calc(100% - 80px);
         margin: 40px 40px 0;
     }
@@ -751,7 +751,7 @@ footer .copyright {
     .banner {
         height: 150px;
     }
-    .content {
+    .content-box {
         width: calc(100% - 40px);
         margin: 40px 20px 0;
     }
